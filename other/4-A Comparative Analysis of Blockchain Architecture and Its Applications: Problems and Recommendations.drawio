@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T11:02:27.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.5" etag="_uySRjrelrvsD000_sP3" type="github"><diagram id="IvNZak7vHXGWCKo7ouSj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-07T06:40:18.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="OLhZR4cCLbpt9QgKeYkM" version="15.4.3" type="github">
+  <diagram id="IvNZak7vHXGWCKo7ouSj" name="Page-1">
+    <mxGraphModel dx="1342" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-20" value="Horizontal Tree Layout" style="swimlane;startSize=21;horizontal=0;childLayout=treeLayout;horizontalTree=1;resizable=0;containerType=tree;" vertex="1" parent="1">
+          <mxGeometry x="149" y="160" width="670" height="483" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-21" value="区块链" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="41" y="302.25" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-22" value="中心化/去中心化" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="191" y="181.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" parent="SN7SD-uxnaHi_wxsUFxO-20" source="SN7SD-uxnaHi_wxsUFxO-21" target="SN7SD-uxnaHi_wxsUFxO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-24" value="应用领域" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="191" y="423" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" parent="SN7SD-uxnaHi_wxsUFxO-20" source="SN7SD-uxnaHi_wxsUFxO-21" target="SN7SD-uxnaHi_wxsUFxO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-27" source="SN7SD-uxnaHi_wxsUFxO-21" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="271" y="-973.5999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-27" value="类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="191" y="342" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-31" source="SN7SD-uxnaHi_wxsUFxO-24" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="271" y="-893.5999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-31" value="物联网、医疗保健、金融、供应链管理、会计结算、智能交易、物流、制造、能源、机器人" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="341" y="423" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-40" source="SN7SD-uxnaHi_wxsUFxO-22" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="-451.5999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-40" value="中心化" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="341" y="101" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-42" source="SN7SD-uxnaHi_wxsUFxO-22" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-532.4999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-42" value="去中心化" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="341" y="262" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-44" source="SN7SD-uxnaHi_wxsUFxO-40" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-411.5999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-44" value="权限集中，服务商可直接修改系统数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="491" y="20" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-48" source="SN7SD-uxnaHi_wxsUFxO-40" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="-452.19999999999993" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-48" value="服务商单点故障可以导致系统崩溃" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="491" y="100" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-50" source="SN7SD-uxnaHi_wxsUFxO-42" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-214.69999999999976" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-50" value="解决了匿名用户的相互信任、操作透明、数据完整性等问题" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="491" y="262" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-52" source="SN7SD-uxnaHi_wxsUFxO-40" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="-276.69999999999993" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-52" value="不能提供透明、公平、完整的服务，无法保证交易的不可否认性和数据的不可变性" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="491" y="181" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=0;" edge="1" target="SN7SD-uxnaHi_wxsUFxO-84" source="SN7SD-uxnaHi_wxsUFxO-27" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="482.2499999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7SD-uxnaHi_wxsUFxO-84" value="公链、许可链" style="whiteSpace=wrap;html=1;" vertex="1" parent="SN7SD-uxnaHi_wxsUFxO-20">
+          <mxGeometry x="341" y="342" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
